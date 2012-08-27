@@ -28,6 +28,6 @@ JREがインストールされており、javaコマンドが実行できるよ�
 
 関連情報
 --------
-http://www.javadrive.jp/poi/
-http://www.visards.co.jp/java/poi/poi5.html
-http://www.fk.urban.ne.jp/home/kishida/kouza/poi/poi.html
+http://www.javadrive.jp/poi/  
+http://www.visards.co.jp/java/poi/poi5.html  
+http://www.fk.urban.ne.jp/home/kishida/kouza/poi/poi.html  
